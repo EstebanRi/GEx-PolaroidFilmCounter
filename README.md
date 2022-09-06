@@ -1,4 +1,10 @@
 # GEx-PolaroidFilmCounter
+
+---
+# DEPRECATED
+This proyect is not longer maintained due to changes in the game. 
+---
+
 Polaroid camera film counter mod for the game Ghost Exorcists Inc.
 
 Made to be used with BepInEx
